@@ -54,6 +54,7 @@ plugins:
 
 exclude:
   - .resources/
+  - [vendor]
 
 highlighter: rouge
 markdown: kramdown

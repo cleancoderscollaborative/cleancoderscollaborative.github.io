@@ -4,10 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Our goal is to spread and apply the ideas of “Clean Code” to build better software.
-The focus is on the application of design principles and patterns, test-driven development,
-designing applications with security, and a touch of DevOps/DevSecOps (development operations)
-and Agile methodologies.
+ 
 Credit for the name “Clean Code” goes to Robert C. “Uncle Bob” Martin.
 While you may have your own opinion about Uncle Bob, he did coin the name, and catalog and present many of the principles,
 patterns, and ideas that are argued about in this forum.
