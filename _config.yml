@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Clean Coders Collaborative
-email: jmussman@smallrock.met
+# email: jmussman@smallrock.net
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the documentation for the Clean Coders Collaborative meetup.
+  Clean Coders Collaborative Blog and Docs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jmussman
-github_username:  jmussman
+# twitter_username: 
+# github_username:  cleancoderscollaborative
 
 # Build settings
 theme: minima
@@ -52,4 +52,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-markdown: GFM
+exclude:
+  - .resources/
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM

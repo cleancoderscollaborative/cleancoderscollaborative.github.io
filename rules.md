@@ -1,15 +1,12 @@
+---
 layout: page
-title: "Rules of the Road"
-permalink: /rules
+title: Rules
+permalink: /rules/
+---
 
-[//]: # (README.md)
+[//]: # (about.md)
 [//]: # (Copyright © 2024 Joel A Mussman. All rights reserved.)
 [//]: #
-
-![Banner Light](https://raw.githubusercontent.com/cleancoderscollaborative/cdn/main/banners/banner-rules-light.png#gh-light-mode-only)
-![Banner Light](https://raw.githubusercontent.com/cleancoderscollaborative/cdn/main/banners/banner-rules-dark.png#gh-dark-mode-only)
-
-# Rules of the Road
 
 1.	You must have Meetup and video conferencing accounts to participate, no anonymous attendees. “Zoom bombing” will not be tolerated and your account will be reported to the provider if that happens.
 2.	Video participation is emphatically encouraged. It is hard to work as a team without the visual cues of your team members.
