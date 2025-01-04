@@ -12,7 +12,7 @@ The environment has been chosen to focus on those topics, and not create a high 
 and that both object-oriented and functional programming topcis may be addressed.
 1. Visual Studio Code will be the IDE, because of the price tag, the available extensions,
 and it is the interface for GitHub Codespaces.
-1 .The project is configured in such a way as to be developed using a local Python installation or in a Codespace at GitHub
+1. The project is configured in such a way as to be developed using a local Python installation or in a Codespace at GitHub
 if you prefer not to (or cannot) install Python on your computer.
 
 The project repository is located [https://github.com/cleancoderscollaborative/mastermind](https://github.com/cleancoderscollaborative/mastermind).

@@ -18,5 +18,5 @@ or host a presentation that is of interest to our members.
 ## Blog
 
 As long as it is about building software, then we welcome your submissions to our blog!
-Our blog is hosted at github.io and built using Jekyll
+The blog is hosted at github.io and built using Jekyll.
 Submissions may be created using Markdown or Liquid.
