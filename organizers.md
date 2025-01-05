@@ -4,5 +4,5 @@ title: Organizers
 permalink: /organizers/
 ---
 Paul Reilly<br>
-Janu Coles<br>
+Janus Coles<br>
 Joel Mussman<br>
