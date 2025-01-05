@@ -2,6 +2,7 @@
 layout: page
 title: Contributing
 permalink: /contributing/
+header: https://raw.githubusercontent.com/cleancoderscollaborative/cdn/main/banners/banner-clean-coders.png
 ---
 
 [//]: # (about.md)

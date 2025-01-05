@@ -21,9 +21,9 @@
 title: Clean Coders Collaborative
 # email: jmussman@smallrock.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Clean Coders Collaborative Blog and Docs
+  Blog and Docs
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cleancoderscollaborative.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 # github_username:  cleancoderscollaborative
 
@@ -60,3 +60,12 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
+
+# Front Matter Defaults
+defaults:
+  # Posts defaults
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: posts # Apply the default values below only to posts
+    values:
+      image: assets/images/banner-clean-coders.png

@@ -3,6 +3,6 @@ layout: page
 title: Organizers
 permalink: /organizers/
 ---
-Paul Reily<br>
+Paul Reilly<br>
 Janu Coles<br>
 Joel Mussman<br>
