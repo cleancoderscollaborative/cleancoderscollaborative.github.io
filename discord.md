@@ -2,6 +2,7 @@
 layout: page
 title: Discord
 permalink: /discord/
+hide_title: true
 ---
 
 [//]: # (about.md)
@@ -21,10 +22,10 @@ and anytime chat in one tool!
 * [Direct link to meetup channel](discord://discord.com/channels/1080153218899787856/1080153220137107466)
 \(If you have the server added click here to join the meetup)
 
-# Get Started with Discord
+## Get Started with Discord
 
-You need to have a *FREE* Discord account to join our collaboration meetups.
-Asking our members to have an account reduces the zoom-bombing we experience.
+You need to have a *FREE* Discord account to use Discord and join our collaboration meetups.
+Registering for an account reduces the zoom-bombing we experience.
 Discord is also extremely popular for both gaming and business, so it is real collaboration tool
 (in case you are not familiar)!
 
@@ -38,7 +39,7 @@ Our meetups will work with the browser interface, but you can also download and 
 the desktop application.
 Look for the download link at [https://discord.com](https://discord.com).
 
-# Joining our Discord Server
+## Joining our Discord Server
 
 At Discord text and video chats are organized under *servers*.
 After adding our server to your account you will pass through the *onboarding* process with a few steps to introduce our environment.
