@@ -36,6 +36,7 @@ If you already have an account, skip to [Joining our Discord Server](#joining-ou
 
 Our meetups will work with the browser interface, but you can also download and use
 the desktop application.
+Look for the download link at [https://discord.com](https://discord.com).
 
 # Joining our Discord Server
 
