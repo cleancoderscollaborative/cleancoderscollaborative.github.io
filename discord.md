@@ -19,7 +19,7 @@ and anytime chat in one tool!
 
 * [Server invite link](https://discord.gg/epKjpZA3)
 \(Click this link to add our server to your account)
-* [Direct link to meetup channel](discord://discord.com/channels/1080153218899787856/1080153220137107466)
+* [Direct link to the meetup channel](discord://discord.com/channels/1080153218899787856/1080153220137107466)
 \(If you have the server added click here to join the meetup)
 
 ## Get Started with Discord
@@ -46,5 +46,5 @@ After adding our server to your account you will pass through the *onboarding* p
 
 * [Server invite link](https://discord.gg/epKjpZA3)
 \(Click this link to add our server to your account)
-* [Direct link to meetup channel](discord://discord.com/channels/1080153218899787856/1080153220137107466)
+* [Direct link to the meetup channel](discord://discord.com/channels/1080153218899787856/1080153220137107466)
 \(If you have the server added click here to join the meetup)
