@@ -8,9 +8,9 @@ reliable, adaptable, and maintainable software applications (RAM).
 Credit for the moniker “Clean Code” goes to Robert C. “Uncle Bob” Martin,
 who cataloged and presented many of the principles,
 patterns, and ideas that we have animated discussions about.
-Uncle Bob got the idea to catalog and advance these principles after reading about Barbara Liskov's work.
+Uncle Bob said he got the idea to catalog and advance these principles after reading about Barbara Liskov's work.
 All of these principles and patterns were discovered, developed, and explored in parallel and collaboratively
-by many engineers like Barbara over many decades.
+by many computer scientists and software engineers, over many decades.
 Some of those engineers have gathered no accolades, are still active, may even participate in this group!
 As we enter 2025 Clean Coders Collaborative will focus on the aspects of building better software for all platforms
 using a devirsified approach in our meetups:

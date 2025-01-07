@@ -18,4 +18,8 @@ if you prefer not to (or cannot) install Python on your computer.
 The project repository is located [https://github.com/cleancoderscollaborative/mastermind](https://github.com/cleancoderscollaborative/mastermind).
 We expect that members may join midway through our projects, so the most up-to-date work
 will be pushed to GitHub as we progress.
-See the repository README for notes about how everything will work.
+The repository README looks intense, but do not get discouraged.
+It contains the step-by-step instructions to set up your own development
+environment for Mac, Windows, or Linux.
+Or, if you prefer, how to set up a virtual Linux environment using a GitHub Codespace.
+And if you are experienced with Python and GitHub, you may not even need these instructions.

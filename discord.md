@@ -8,9 +8,18 @@ permalink: /discord/
 [//]: # (Copyright © 2024 Joel A Mussman. All rights reserved.)
 [//]: #
 
+![Discord](assets/images/discord-logo.png)
+
 Clean Coders Collaborative moved to Discord to minimize zoom-bombing but a lot of other
 advantages have presented themselves, one of which is the combination of video conferencing
 and anytime chat in one tool!
+
+## Already Got Discord?
+
+* [Server invite link](https://discord.gg/epKjpZA3)
+\(Click this link to add our server to your account)
+* [Direct link to meetup channel](https://discord.com/channels/1080153218899787856/1080153220137107466)
+\(If you have the server added click here to join the meetup)
 
 # Get Started with Discord
 
@@ -31,6 +40,9 @@ the desktop application.
 # Joining our Discord Server
 
 At Discord text and video chats are organized under *servers*.
-After joining our server you will pass through the *onboarding* process with a few steps to introduce our environment.
+After adding our server to your account you will pass through the *onboarding* process with a few steps to introduce our environment.
 
-The invitation link for the Clean Coders Collaborative server is [https://discord.gg/epKjpZA3](https://discord.gg/epKjpZA3).
+* [Server invite link](https://discord.gg/epKjpZA3)
+\(Click this link to add our server to your account)
+* [Direct link to meetup channel](https://discord.com/channels/1080153218899787856/1080153220137107466)
+\(If you have the server added click here to join the meetup)
