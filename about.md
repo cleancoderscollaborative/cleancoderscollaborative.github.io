@@ -20,7 +20,7 @@ We expect folks to join projects in the middle, so do not worry if you come late
 2.	Members may ask for a code review of their own projects and that can be the topic of a meetup.
 3.	Occasionally a meetup may be a video or a guest presenter!
 
-This is not basic coding, we expect experience with the basic concepts of programming and perhaps a bit of OOP.
+This is not basic coding, we expect experience with concepts from procedural, functional, or object-oriented programming.
 Whatever the format, raise your voice! Group participation is required!
 None of this is a lecture or “do as I say” presented “by the experts”.
 And of course, sponsors are always welcome :smile:
