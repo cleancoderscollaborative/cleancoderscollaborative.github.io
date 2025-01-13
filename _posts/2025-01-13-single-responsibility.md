@@ -18,7 +18,7 @@ one client is allowed!
 
 ## High-Cohesion
 
-I originally came at this aspect of coding from at cohesion.
+I originally came at this aspect of coding with cohesion.
 I got that from COBOL and database record design, even before relational databases were available
 (look up Indexed-Sequential Access Method).
 
