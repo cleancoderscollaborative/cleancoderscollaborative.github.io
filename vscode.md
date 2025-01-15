@@ -170,4 +170,4 @@ nobody else is looking at.
 1. Whoever has the *editing stick* will announce what file they are working in,
 so you can switch to that in your own view and follow along.
 
-#### Good Luck and Welcome to the team!
+#### Good luck and welcome to the team!

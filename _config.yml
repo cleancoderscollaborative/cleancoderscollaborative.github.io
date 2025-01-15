@@ -55,6 +55,7 @@ plugins:
 exclude:
   - .resources/
   - vendor/
+  - README.md
 
 highlighter: rouge
 markdown: kramdown
