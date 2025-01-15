@@ -25,6 +25,10 @@ Whatever the format, raise your voice! Group participation is required!
 None of this is a lecture or “do as I say” presented “by the experts”.
 And of course, sponsors are always welcome :smile:
 
+## Resources for Meetups
+
+* [Understanding Visual Studio Code and Microsoft Live Share](vscode.md)
+ 
 ## Current and Past Collaborations
 
 * 2024-01-20 Mastermind: [https://github.com/cleancoderscollaborative/mastermind](https://github.com/cleancoderscollaborative/mastermind)
