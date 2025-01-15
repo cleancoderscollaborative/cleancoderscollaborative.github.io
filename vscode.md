@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /rules/
+permalink: /vscode/
 ---
 
 [//]: # (about.md)
