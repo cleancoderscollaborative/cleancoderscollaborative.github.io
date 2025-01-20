@@ -12,9 +12,21 @@ I will start off by saying that Uncle Bob expresses regret at naming this princi
 He has gravitated toward "One Source of Change", or for only making changes to something
 because one entity requires those changes.
 Craig Larman's GRASP principles of high-cohesion and low-coupling are closely
-related to Bob's single responsibility.  
-I agree with the one source of change idea, but do not misinterpret that as only
-one client is allowed!
+related to Uncle Bob's single responsibility.  
+
+In one presentation Uncle Bob redefines a *responsibility* as a *person*, which sounds kind
+of funny but he really means the module is responsible to only one person.
+The thing is, that really isn't true and even his presentation works against that.
+The code is responsible to one entity, which could be a group of people who are aligned
+with each other.
+What the code cannot do is serve conflicting entities at the same time.
+All that means is
+have multiple pieces of code that may share common stuff, but the different pieces each
+support their own entity.
+
+Everybody seems to have a complicated way of saying this, but it really is simple if we do not
+approach it from the theory.
+Here is what happened in my career, this is what works and why!
 
 ## High-Cohesion
 
@@ -194,7 +206,7 @@ Remember: the solution to most problems in OOP is to create another class!
 
 My goal is to help you learn a simple rule that you can measure what you are coding against.
 The rule does not necessarily  handle all aspects of the principle.
-Fundamentally, *single responsibility* means that anything at any level should be about
+Fundamentally, to me *single responsibility* means that anything at any level should be about
 managaging one thing, it should be *cohesive*.
 A program should be about managing one thing: a document, a shopping cart.
 A module, a method or function, even a statement should be focused doing one thing.
@@ -204,6 +216,11 @@ A module, a method or function, even a statement should be focused doing one thi
 int x = 5;
 int y = ++x / 2;    // Violation: two things happening! x is incremented as well.
 ```
+
+Uncle Bob said exactly the same thing in an interview once.
+That made me extremely happy, because this is what I was teaching successful programmers to do,
+and when a name was put to it I extended it to all levels because it fits!
+But I felt a bit guilty about appropriating it that way, until I heard Uncle Bob say it too.
 
 If you want every last nuance about the prinicple,
 Uncle Bob can go on and on in multiple books and videos and opine that he named it wrong.
