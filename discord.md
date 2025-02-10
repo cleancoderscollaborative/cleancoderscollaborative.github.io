@@ -17,7 +17,7 @@ and anytime chat in one tool!
 
 ## Already Got Discord?
 
-* [Server invite link](https://discord.gg/epKjpZA3)
+* [Server invite link](https://discord.gg/P3SAezk6ey)
 \(Click this link to add our server to your account)
 * [Direct link to the meetup channel](discord://discord.com/channels/1080153218899787856/1080153220137107466)
 \(If you have the server added click here to join the meetup)
@@ -44,7 +44,7 @@ Look for the download link at [https://discord.com](https://discord.com).
 At Discord text and video chats are organized under *servers*.
 After adding our server to your account you will pass through the *onboarding* process with a few steps to introduce our environment.
 
-* [Server invite link](https://discord.gg/epKjpZA3)
+* [Server invite link](https://discord.gg/P3SAezk6ey)
 \(Click this link to add our server to your account)
 * [Direct link to the meetup channel](discord://discord.com/channels/1080153218899787856/1080153220137107466)
 \(If you have the server added click here to join the meetup)
